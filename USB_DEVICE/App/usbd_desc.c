@@ -4,9 +4,9 @@
 
 #define USBD_VID     0x0483
 #define USBD_LANGID_STRING     1033
-#define USBD_MANUFACTURER_STRING     "Andy's Workshop"
+#define USBD_MANUFACTURER_STRING     "zenchrer"
 #define USBD_PID_FS     0x5731
-#define USBD_PRODUCT_STRING_FS     "Andy's Workshop Microphone"
+#define USBD_PRODUCT_STRING_FS     "zenchrer's Microphone"
 #define USBD_CONFIGURATION_STRING_FS     "AUDIO Config"
 #define USBD_INTERFACE_STRING_FS     "AUDIO Interface"
 
