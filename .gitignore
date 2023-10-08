@@ -2,3 +2,10 @@
 /.settings
 /Debug_Semihosting/
 /build/
+.eide/*
+.vscode/*
+.clang-format
+.gitignore
+eclipse.importer.warning.txt
+usb-microphone.code-workspace
+.eide.usr.ctx.json
